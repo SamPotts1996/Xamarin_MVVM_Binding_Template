@@ -1,0 +1,1 @@
+# Xamarin_MVVM_Binding_Template
