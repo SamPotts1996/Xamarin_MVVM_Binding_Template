@@ -9,7 +9,7 @@
         
         <Label Text="Click the Red Button to add a new Control to the ListView" Grid.Row="0" Grid.Column="0" VerticalTextAlignment="Center" HorizontalTextAlignment="Center" FontSize="28" BackgroundColor="DimGray" TextColor="White"/>
         <Button Text="Click Me!" Command="{Binding }" Grid.Row="1" Grid.Column="0" BackgroundColor="IndianRed"/>
-        <ListView x:Name="ExampleListView" Grid.Row="2" Grid.RowSpan="4"  Grid.Column="0" BackgroundColor="WhiteSmoke"/> 
+        <StackLayout x:Name="ExampleStackLayout" Grid.Row="2" Grid.RowSpan="4"  Grid.Column="0" BackgroundColor="WhiteSmoke"/> 
 
     </Grid>
 </ContentPage>
