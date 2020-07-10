@@ -18,10 +18,12 @@ namespace MVVMTemplate.Views
 
         public ControlChildrenTemplate()
         {
+            InitializeComponent();
+
             ViewModel = new ControlChildrenTemplateViewModel();
             BindingContext = ViewModel;
 
-            ExampleStackLayout = StackLayout;
+            StackLayout = ExampleStackLayout;
 
             ViewModel.AddNewControl += (sender, args) => RefreshStackLayout(args.ChildrenControls);
         }
