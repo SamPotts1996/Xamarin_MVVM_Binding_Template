@@ -2,7 +2,9 @@ package mono;
 public class MonoPackageManager_Resources {
 	public static String[] Assemblies = new String[]{
 		/* We need to ensure that "MVVMTemplate.Android.dll" comes first in this list. */
+		"MVVMTemplate.Android.dll",
 		"FormsViewGroup.dll",
+		"MVVMTemplate.dll",
 		"Xamarin.Android.Arch.Core.Common.dll",
 		"Xamarin.Android.Arch.Core.Runtime.dll",
 		"Xamarin.Android.Arch.Lifecycle.Common.dll",

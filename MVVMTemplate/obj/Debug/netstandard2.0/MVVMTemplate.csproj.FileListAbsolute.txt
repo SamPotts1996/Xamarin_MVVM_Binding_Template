@@ -1,0 +1,13 @@
+C:\Users\Life\source\repos\Xamarin_MVVM_Binding_Template\MVVMTemplate\obj\Debug\netstandard2.0\MVVMTemplate.csprojAssemblyReference.cache
+C:\Users\Life\source\repos\Xamarin_MVVM_Binding_Template\MVVMTemplate\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Life\source\repos\Xamarin_MVVM_Binding_Template\MVVMTemplate\obj\Debug\netstandard2.0\Views\ControlChildrenTemplate.xaml.g.cs
+C:\Users\Life\source\repos\Xamarin_MVVM_Binding_Template\MVVMTemplate\obj\Debug\netstandard2.0\Views\FirstPage.xaml.g.cs
+C:\Users\Life\source\repos\Xamarin_MVVM_Binding_Template\MVVMTemplate\obj\Debug\netstandard2.0\MVVMTemplate.csproj.CoreCompileInputs.cache
+C:\Users\Life\source\repos\Xamarin_MVVM_Binding_Template\MVVMTemplate\obj\Debug\netstandard2.0\MVVMTemplate.AssemblyInfoInputs.cache
+C:\Users\Life\source\repos\Xamarin_MVVM_Binding_Template\MVVMTemplate\obj\Debug\netstandard2.0\MVVMTemplate.AssemblyInfo.cs
+C:\Users\Life\source\repos\Xamarin_MVVM_Binding_Template\MVVMTemplate\bin\Debug\netstandard2.0\MVVMTemplate.deps.json
+C:\Users\Life\source\repos\Xamarin_MVVM_Binding_Template\MVVMTemplate\bin\Debug\netstandard2.0\MVVMTemplate.dll
+C:\Users\Life\source\repos\Xamarin_MVVM_Binding_Template\MVVMTemplate\bin\Debug\netstandard2.0\MVVMTemplate.pdb
+C:\Users\Life\source\repos\Xamarin_MVVM_Binding_Template\MVVMTemplate\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Life\source\repos\Xamarin_MVVM_Binding_Template\MVVMTemplate\obj\Debug\netstandard2.0\MVVMTemplate.dll
+C:\Users\Life\source\repos\Xamarin_MVVM_Binding_Template\MVVMTemplate\obj\Debug\netstandard2.0\MVVMTemplate.pdb
