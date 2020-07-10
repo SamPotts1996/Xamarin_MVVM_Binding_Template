@@ -36,10 +36,10 @@ namespace MVVMTemplate.ViewModels
         private string _redButtonText;
         public string RedButtonText
         {
-            get { return _title; }
+            get { return _redButtonText; }
             set
             {
-                _title = value;
+                _redButtonText = value;
                 OnPropertyChanged();
             }
         }

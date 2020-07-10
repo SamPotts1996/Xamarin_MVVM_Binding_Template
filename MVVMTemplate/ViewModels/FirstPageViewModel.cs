@@ -52,7 +52,7 @@ namespace MVVMTemplate.ViewModels
         public void DoControlChildren(object _)
         {
             // Initialize the page variable
-            Page page = new ControlChildrenTemplate();
+            Page page = new Views.ControlChildrenTemplate();
 
             // Invoke the AddNewPage Event with the page as a parameter
             AddNewPage?.Invoke(this, new PageEventArgs(page));
