@@ -6,8 +6,8 @@
              mc:Ignorable="d"
              x:Class="MVVMTemplate.Views.FirstPage">
    <Grid>
-        <Label Text="Select An Example" Grid.Column="0" Grid.Row="0" HorizontalTextAlignment="Center" VerticalTextAlignment="Center" VerticalOptions="Fill" HorizontalOptions="Fill" FontSize="24" TextColor="WhiteSmoke" BackgroundColor="Gray"/>
-        <Button Text="Adding Control Children Example" Grid.Column="0" Grid.Row="1" BackgroundColor="CadetBlue" TextColor="WhiteSmoke"/>
+        <Label Text="{Binding Title}" Grid.Column="0" Grid.Row="0" HorizontalTextAlignment="Center" VerticalTextAlignment="Center" VerticalOptions="Fill" HorizontalOptions="Fill" FontSize="24" TextColor="WhiteSmoke" BackgroundColor="Gray"/>
+        <Button Command="{Binding AddControlChildrenCommand}" Text="Adding Control Children Example" Grid.Column="0" Grid.Row="1" BackgroundColor="CadetBlue" TextColor="WhiteSmoke"/>
         <Button Text="Custom Control Example" Grid.Column="0" Grid.Row="2" BackgroundColor="Gray" TextColor="White"/>
         <Button Text="Data Binding Example" Grid.Column="0" Grid.Row="3" BackgroundColor="CadetBlue" TextColor="WhiteSmoke"/>
         <Button Text="*More Coming*" Grid.Column="0" Grid.Row="4" BackgroundColor="Gray" TextColor="White"/>

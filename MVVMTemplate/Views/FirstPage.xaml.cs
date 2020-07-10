@@ -18,15 +18,21 @@ namespace MVVMTemplate.Views
         {
             InitializeComponent();
 
+            // Initialize the ViewModel
             ViewModel = new FirstPageViewModel();
+
+            // Set the Binding Context to the ViewModel
             BindingContext = ViewModel;
 
-            ViewModel.AddNewPage += (sender, args) => AddPage(args.Page);
 
+            // Handler of the Event invoked in the ViewModel 
+            ViewModel.AddNewPage += (sender, args) => AddPage(args.Page);
         }
 
+        // The Page is sent from the ViewModel 
         private void AddPage(Page page)
         {
+            // The page is added to the navigation stack
             Navigation.PushAsync(page);
         }
     }

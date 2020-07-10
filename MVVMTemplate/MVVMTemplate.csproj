@@ -19,7 +19,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <EmbeddedResource Update="ViewModels\ControlChildrenTemplate.xaml">
+    <EmbeddedResource Update="Views\ControlChildrenTemplate.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
     <EmbeddedResource Update="Views\FirstPage.xaml">
